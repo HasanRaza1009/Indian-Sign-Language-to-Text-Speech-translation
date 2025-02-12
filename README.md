@@ -1,1 +1,1 @@
-# Deep-Learning-for-Terrain-Recognition
+# Indian-Sign-Language-to-Text/Speech-translation
