@@ -10,8 +10,9 @@ This project uses computer vision and deep learning (CNN - MobileNetV2) to recog
 
 ---
 ---
-## 🎥 Demo
-https://github.com/HasanRaza1009/Indian-Sign-Language-to-Text-Speech-translation/blob/main/sign_to_speech.mp4
+## 🎥 Demo & Screenshots
+[▶️ Click here to watch the demo video](https://github.com/HasanRaza1009/Indian-Sign-Language-to-Text-Speech-translation/blob/main/sign_to_speech.mp4)
+
 ---
 
 ## 📌 Features
