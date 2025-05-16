@@ -9,13 +9,10 @@ An AI-powered system that translates Indian Sign Language (ISL) gestures capture
 This project uses computer vision and deep learning (CNN - MobileNetV2) to recognize hand gestures from Indian Sign Language (ISL) in real-time. It converts these gestures to text and then to speech using gTTS (Google Text-to-Speech). The system provides a user-friendly GUI built with Tkinter and supports multilingual translation.
 
 ---
----
-## 🎥 Demo & Screenshots:-
 
+---
+## 🎥 Demo
 [▶️ Click here to watch the demo video](https://github.com/HasanRaza1009/Indian-Sign-Language-to-Text-Speech-translation/blob/main/sign_to_speech.mp4)
----
-Screen shots also upload so please take a look
----
 ---
 
 ## 📌 Features
