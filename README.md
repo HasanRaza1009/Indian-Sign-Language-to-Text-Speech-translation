@@ -24,23 +24,19 @@ This project leverages computer vision and deep learning (MobileNetV2 CNN) to re
 
 ## 🧱 Project Structure
 
--Indian-Sign-Language-to-Text-Speech-translation/
--├── capture.py # GUI to capture gesture images using webcam
--├── preprocess.py # Preprocess captured images using CLAHE
--├── model.py # Trains MobileNetV2 CNN model on preprocessed data
--├── recognise_sign.py # Real-time translator: Sign → Text → Speech
--├── requirements.txt # Python dependencies
--├── README.md # Project documentation
--├── model/ # Trained MobileNetV2 model
--├── dataset/ # Captured and preprocessed images
--│ ├── A/
--│ ├── B/
--│ └── ...
--└── assets/ # UI icons, reference images, etc.
-
-yaml
-Copy
-Edit
+- Indian-Sign-Language-to-Text-Speech-translation/
+- ├── capture.py # GUI to capture gesture images using webcam
+- ├── preprocess.py # Preprocess captured images using CLAHE
+- ├── model.py # Trains MobileNetV2 CNN model on preprocessed data
+- ├── recognise_sign.py # Real-time translator: Sign → Text → Speech
+- ├── requirements.txt # Python dependencies
+- ├── README.md # Project documentation
+- ├── model/ # Trained MobileNetV2 model
+- ├── dataset/ # Captured and preprocessed images
+- │ ├── A/
+- │ ├── B/
+- │ └── ...
+- └── assets/ # UI icons, reference images, etc.
 
 ---
 
