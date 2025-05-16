@@ -47,9 +47,10 @@ Indian-Sign-Language-to-Text-Speech-translation/
 The dataset used for training and testing is large, so it is hosted externally.
 
 You can download the complete dataset ZIP file here:  
-[Download Dataset (Dropbox)](YOUR_DROPBOX_SHAREABLE_LINK_HERE)
-
+[Download Dataset (Dropbox)](https://www.dropbox.com/scl/fi/rogqgtx6myxkflxg6wb1e/dataset.zip?rlkey=uobxbnknwgrekbikchbro315h&st=qigcak5q&dl=0)
 After downloading, unzip the folder into the `dataset/` directory of this project.
+
+use this dataset as referenece, capture your own data at different time intervals so that the webcam gets adapted to the noise levels at different time intervals.
 ---
 
 ## 🛠️ Installation
