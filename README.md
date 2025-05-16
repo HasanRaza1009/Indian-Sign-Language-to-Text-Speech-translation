@@ -44,7 +44,7 @@ This project leverages computer vision and deep learning (MobileNetV2 CNN) to re
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/HasanRaza1009/Indian-Sign-Language-to-Text-Speech-translation.git
 cd Indian-Sign-Language-to-Text-Speech-translation
 2. Create a Virtual Environment (optional but recommended)
