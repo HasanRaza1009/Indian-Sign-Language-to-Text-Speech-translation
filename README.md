@@ -164,11 +164,3 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-Thank you for checking out this project!  
-Feel free to open issues or reach out with questions.
