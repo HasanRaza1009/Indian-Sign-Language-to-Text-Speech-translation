@@ -1,3 +1,4 @@
+
 # Indian-Sign-Language-to-Text/Speech-translation
 
 An AI-powered system that translates Indian Sign Language (ISL) gestures captured from a webcam into real-time text and speech. This project bridges the communication gap between the hearing and speech-impaired communities and the rest of the world.
@@ -37,7 +38,7 @@ Indian-Sign-Language-to-Text-Speech-translation/
 ├── recognise_sign.py        # Real-time translator: Sign → Text → Speech
 ├── requirements.txt         # Python dependencies
 ├── media/
-│   └── demo.mp4             #demo video
+│   └── demo.mp4             # demo video
 ├── README.md                # Project documentation
 ├── model/                   # Saved trained model files
 ├── dataset/                 # Captured and preprocessed gesture images
@@ -48,16 +49,18 @@ Indian-Sign-Language-to-Text-Speech-translation/
 ```
 
 ---
----
-## Dataset
+
+## 🗂️ Dataset
 
 The dataset used for training and testing is large, so it is hosted externally.
 
 You can download the complete dataset ZIP file here:  
 [Download Dataset (Dropbox)](https://www.dropbox.com/scl/fi/rogqgtx6myxkflxg6wb1e/dataset.zip?rlkey=uobxbnknwgrekbikchbro315h&st=qigcak5q&dl=0)
+
 After downloading, unzip the folder into the `dataset/` directory of this project.
 
-use this dataset as referenece, capture your own data at different time intervals so that the webcam gets adapted to the noise levels at different time intervals.
+> 📌 Tip: Use this dataset as reference and capture your own data at different time intervals to adapt the model to varying webcam noise levels.
+
 ---
 
 ## 🛠️ Installation
@@ -181,4 +184,3 @@ Contributions are welcome! To contribute:
 - Deployment as a mobile or web app for wider accessibility
 
 ---
-
