@@ -41,6 +41,16 @@ Indian-Sign-Language-to-Text-Speech-translation/
 ```
 
 ---
+---
+## Dataset
+
+The dataset used for training and testing is large, so it is hosted externally.
+
+You can download the complete dataset ZIP file here:  
+[Download Dataset (Dropbox)](YOUR_DROPBOX_SHAREABLE_LINK_HERE)
+
+After downloading, unzip the folder into the `dataset/` directory of this project.
+---
 
 ## 🛠️ Installation
 
